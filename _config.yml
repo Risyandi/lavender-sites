@@ -1,12 +1,12 @@
 # Site
-name: "Lavenderify"
+name: "Lavenderify.com"
 title: "Lavenderify"
-description: "Lavenderify is a website give the news and information about all things technology, gadgets, and software."
+description: "Lavenderify delivers fresh and trusted insights in news, technology, and lifestyle. Discover updates, tips, and features to enrich your modern life."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
 google_analytics: 'G-MSNE8HHHB4'
-disqus: 'demowebsite'
+disqus: 'lavenderify'
 mailchimp-list: 'http://eepurl.com/jg00Rw'
 include: ["_pages"]
 permalink: /:title/
@@ -55,10 +55,10 @@ kramdown:
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3412143450191416"
-adsense-data-ad-slot: "1363087678"
+adsense-data-ad-client: "ca-pub-00000"
+adsense-data-ad-slot: "0000000000"
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
+lazyimages: "enabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
